@@ -1,0 +1,7 @@
+This file is going to put those basic git commands I learned to the test.
+
+In addition, I will create a new branch for this file. 
+
+In addtin, I will try to only use cli commands for the entire
+process of creating this file, and then doing the commit, and push
+to the remote repo (GitHub)
